@@ -4,7 +4,8 @@ Hi 👋 My name is Nontaphat Thaingorm
 A Developer From Thailand
 --------------------------
 
-ชื่อ เวฟ ผมกำลังศึกษาการเขียนโค้ดด้านต่างๆ ทักษะด้าน Dev
+ชื่อ เวฟ ทักษะด้าน Developer ที่มี
+
 Programming Languages:
 - C++
 - Java
