@@ -2,7 +2,6 @@
 
 **Developer from Thailand 🇹🇭**
 
-* 🌍 Based in Thailand
 * ✉️ Contact me: [adshotchannel@gmail.com](mailto:adshotchannel@gmail.com)
 
 ---
