@@ -4,7 +4,28 @@ Hi 👋 My name is Nontaphat Thaingorm
 A Developer From Thailand
 --------------------------
 
-ผมชื่อ นนทพัทธิ์ ไทยง้อม อายุ 21 ชื่อเล่น เวฟ ผมกำลังศึกษาการเขียนโค้ดด้านต่างๆ ตอนนี้กำลังสนใจการทำงานด้าน Full Stack Developer สิ่งที่ชอบคือศึกษาการทำ Game และกำลังศักษาการใช้งาน Unity ทักษะด้าน Dev จะมี C#,Java,Pyrhon,Html,Css,JavaScript,NodeJS,PHP,React,MySQL สำหรับการแนะนำตัวก็มีแค่นี้ครับ
+ชื่อ เวฟ ผมกำลังศึกษาการเขียนโค้ดด้านต่างๆ ทักษะด้าน Dev
+Programming Languages:
+- C++
+- Java
+- Python
+- JavaScript
+
+Frontend:
+- Vite
+- Nuxt.js
+
+Backend:
+- Node.js (NestJS)
+
+Database:
+- MySQL
+- PostgreSQL
+
+CI-CD:
+- Docker
+- GitLab
+- GitHub
 
 * 🌍  I'm based in Thailand in Chiang Rai
 * ✉️  You can contact me at [adshotchannel@gmail.com](mailto:adshotchannel@gmail.com)
