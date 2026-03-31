@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nontaphat Thaingorm (Wave)
 
-**Software Developer from Thailand 🇹🇭**
+**Developer from Thailand 🇹🇭**
 
 * 🌍 Based in Thailand
 * ✉️ Contact me: [adshotchannel@gmail.com](mailto:adshotchannel@gmail.com)
