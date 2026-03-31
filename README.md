@@ -2,9 +2,7 @@
 
 **Software Developer from Thailand 🇹🇭**
 
-I am a passionate developer who loves exploring new technologies and continuously improving my coding skills. I focus on writing clean, scalable, and maintainable code.
-
-* 🌍 Based in Chiang Rai, Thailand
+* 🌍 Based in Thailand
 * ✉️ Contact me: [adshotchannel@gmail.com](mailto:adshotchannel@gmail.com)
 
 ---
