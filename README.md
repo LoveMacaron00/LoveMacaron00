@@ -26,11 +26,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LoveMacaron00&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
-
----
-
-### 💡 Engineering Mindset
-> *"Write code as if the next person maintaining it is a violent psychopath who knows where you live."*
-- **SOLID & DRY:** เพื่อ Maintainability ในระยะยาว
-- **Performance Alternative:** ให้ความสำคัญกับการเลือก Data Structure ที่เหมาะสมกับงาน (โดยเฉพาะใน C++)
-- **Containerization:** ยึดหลัก "Build once, run anywhere" ด้วย Docker
