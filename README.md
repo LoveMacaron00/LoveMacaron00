@@ -9,7 +9,6 @@
 ---
 
 ### 🛠 Technical Stack
-*Focusing on **Clean Code**, **SOLID**, and **High-Performance** architecture.*
 
 | Category | Skills & Frameworks |
 | :--- | :--- |
