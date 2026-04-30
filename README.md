@@ -1,5 +1,5 @@
 # 🚀 Nontaphat Thaingorm (Wave)
-**Full Stack Developer & Systems Engineer from Thailand 🇹🇭**
+**Developer from Thailand 🇹🇭**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nontaphat-thaingorm-15b202163)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/LoveMacaron00)
